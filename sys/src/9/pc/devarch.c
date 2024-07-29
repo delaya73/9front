@@ -381,7 +381,7 @@ static X86type x86intel[] =
 	{ 6,	8,	16,	"PentiumIII/Xeon", },
 	{ 6,	0xB,	16,	"PentiumIII/Xeon", },
 	{ 6,	0xF,	16,	"Xeon5000-series", },
-	{ 6,	0x16,	16,	"Celeron", },
+	{ 6,	0x16,	16,	"Celeron/Core i7 Mobile", },
 	{ 6,	0x17,	16,	"Core 2/Xeon", },
 	{ 6,	0x1A,	16,	"Core i7/Xeon", },
 	{ 6,	0x1C,	16,	"Atom", },
