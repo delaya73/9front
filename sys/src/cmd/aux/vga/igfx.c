@@ -378,6 +378,7 @@ devtype(Igfx*igfx)
 		/* wet floor */
 	case 0x0a06:
 	case 0x3185:    /* UHD 600 - 9.5 Gen Core */
+	case 0x3ea0:    /* UHD 620 - 9 LP Gen Core */
 	case 0x0412:	/* HD 4600 - 4th Gen Core */
 	case 0x041a:	/* HD 4600 - Xeon E3-1200v3 Core */
 		return TypeHSW;
